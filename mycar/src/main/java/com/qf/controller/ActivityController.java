@@ -14,6 +14,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import java.util.List;
 
+
+//Controller 文件贼这里
 @Controller
 public class ActivityController {
 
